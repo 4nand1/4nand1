@@ -54,14 +54,11 @@ Upload a food photo and AI detects the ingredients. Also generates images.<br>
 [Karaoke Booking](https://github.com/4nand1/Karaoke-Booking) (Next.js, Express, MongoDB, Stripe, Clerk, Leaflet) ·
 [AI Quiz Generator](https://quiz-ai-generate.vercel.app) (Gemini, Prisma, PostgreSQL, Clerk)
 
-## Play with my contributions
+## Activity
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nand1/4nand1/output/pacman-contribution-graph-dark.svg" />
-  <img alt="pacman" src="https://raw.githubusercontent.com/4nand1/4nand1/output/pacman-contribution-graph.svg" />
+  <img alt="pacman" width="100%" src="https://raw.githubusercontent.com/4nand1/4nand1/output/pacman-contribution-graph.svg" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nand1/4nand1/output/galaga-contribution-graph-dark.svg" />
-  <img alt="galaga" src="https://raw.githubusercontent.com/4nand1/4nand1/output/galaga-contribution-graph.svg" />
-</picture>
+</div>
