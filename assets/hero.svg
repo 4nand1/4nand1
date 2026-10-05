@@ -14,13 +14,8 @@
     <circle r="60" fill="#22d3ee"><animate attributeName="cx" values="780;640;780" dur="8s" repeatCount="indefinite"/><animate attributeName="cy" values="180;60;180" dur="10s" repeatCount="indefinite"/></circle>
     <circle r="45" fill="#ec4899"><animate attributeName="cx" values="450;560;450" dur="11s" repeatCount="indefinite"/><animate attributeName="cy" values="200;90;200" dur="6s" repeatCount="indefinite"/></circle>
   </g>
-  <text x="450" y="115" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="url(#tx)" letter-spacing="1">
+  <text x="450" y="135" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="url(#tx)" letter-spacing="1">
     Anandaa
     <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-  </text>
-  <text x="450" y="160" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="19" fill="#cbd5e1">
-    full-stack developer · Mongolia<tspan fill="#7dd3fc">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan>
-    <animate attributeName="opacity" from="0" to="1" begin=".6s" dur="1.2s" fill="freeze"/>
   </text>
 </svg>
