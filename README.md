@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero-v2.svg" alt="Anandaa" width="100%" />
+<img src="assets/hero-v3.svg" alt="Anandaa" width="100%" />
 
 <br>
 
