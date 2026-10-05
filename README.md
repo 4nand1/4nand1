@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Anandaa" width="100%" />
+<img src="assets/hero-v2.svg" alt="Anandaa" width="100%" />
 
 <br>
 
@@ -27,7 +27,7 @@ Promotes Mongolian cultural heritage through traditional puzzle games, with an i
 <td width="50%" valign="top">
 <a href="https://food-delivery-zeta-six.vercel.app"><img src="assets/food.jpg" alt="NomNom" /></a>
 <h3>NomNom Food Delivery</h3>
-Full-stack ordering app with a separate REST API, JWT auth and email notifications.<br>
+Food ordering app with a separate REST API, JWT auth and email notifications.<br>
 <sub>Next.js · Express · MongoDB · Zustand</sub><br>
 <a href="https://food-delivery-zeta-six.vercel.app">Live</a> · <a href="https://github.com/4nand1/food-delivery">Code</a>
 </td>
