@@ -1,7 +1,7 @@
 <!-- ponytail: all visuals are hosted SVG services, no build step or workflow -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Anandaa&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%C2%B7%20Ulaanbaatar&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Anandaa&fontSize=64&fontAlignY=38&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/4nand1">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+things+with+React+%26+TypeScript;Games%2C+AI+and+web+apps;Always+learning+something+new" alt="typing" />
@@ -45,6 +45,11 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4nand1&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4nand1&theme=radical&hide_border=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nand1/4nand1/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/4nand1/4nand1/output/snake.svg" />
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" alt="footer" />
 
